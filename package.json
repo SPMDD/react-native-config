@@ -1,16 +1,36 @@
 {
-  "name": "react-native-config",
-  "version": "0.11.7",
-  "description": "Expose config variables to React Native apps",
-  "keywords": ["env", "config", "config-var", "react-native", "android", "ios", "12factor"],
-  "homepage": "https://github.com/luggit/react-native-config",
-  "contributors": [],
-  "repository": {
+  "_from": "git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#v2.2.0",
+  "_id": "react-native-config@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-cU83H8c+6sSViDFwumXcZ4gZbpA=",
+  "_location": "/react-native-config",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "https://github.com/luggit/react-native-config"
+    "raw": "react-native-config@git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#v2.2.0",
+    "name": "react-native-config",
+    "escapedName": "react-native-config",
+    "rawSpec": "git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#v2.2.0",
+    "saveSpec": "git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#v2.2.0",
+    "fetchSpec": "http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config",
+    "gitCommittish": "v2.2.0"
   },
-  "private": false,
-  "author": "Pedro Belo",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#b105b19817877c921363b6d1296a10351663ff7f",
+  "_spec": "react-native-config@git+http://alm-tfs.sinooceangroup.com:8080/tfs/YXPlatform/_git/react-native-config#v2.2.0",
+  "_where": "/Users/apple/Documents/NewOfficeApp",
+  "author": {
+    "name": "Pedro Belo"
+  },
+  "bugs": {
+    "url": "https://github.com/luggit/react-native-config/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false,
+  "description": "Expose config variables to React Native apps",
   "files": [
     "android/",
     "ios/",
@@ -18,6 +38,23 @@
     "index.d.ts",
     "react-native-config.podspec"
   ],
+  "homepage": "https://github.com/luggit/react-native-config",
+  "keywords": [
+    "env",
+    "config",
+    "config-var",
+    "react-native",
+    "android",
+    "ios",
+    "12factor"
+  ],
+  "license": "MIT",
+  "name": "react-native-config",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luggit/react-native-config.git"
+  },
   "types": "./index.d.ts",
-  "license": "MIT"
+  "version": "2.2.0"
 }
